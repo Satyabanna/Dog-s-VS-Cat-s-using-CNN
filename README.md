@@ -21,3 +21,5 @@ With the proliferation of image-centric applications across various domains, ran
 7.Model Deployment: Deploy the trained model for practical applications, such as classifying new images of cats and dogs. Integrate the model into software or platforms where image classification functionality is required.
 
 8.Continuous Improvement: Enhance the model iteratively by gathering additional data, adjusting hyperparameters, or exploring advanced techniques to bolster classification accuracy and robustness over time.
+
+So regarding the Dataset, it will be updated with a google drive link.!!!
